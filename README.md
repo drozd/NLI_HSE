@@ -1,6 +1,7 @@
 # NLI_HSE
 
-My Master thesis: Native Language Identification Using English Texts
+My Master thesis: Native Language Identification Using English Texts. 
+You can download thesis here: https://drive.google.com/file/d/1AvzRREeHfajAYxCIVBcwHieHdiqb5Eu2/view?usp=sharing
 
 NLI is the task of predicting an author’s first language (L1) using only their writings in a second language (L2)
 
